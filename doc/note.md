@@ -1197,3 +1197,17 @@ if(this.state.currentMusicItem === musicItem){
     this.playNext();
 }
 ```
+### React组件创建生命周期
+1. getDefaultProps
+2. getInitialState
+3. componentWillMount
+4. render
+5. componentDidMount
+6. componentWillUnmount
+
+### 组件更新的生命周期
+1. componentWillReceiveProps
+2. shouldComponentUpdate
+3. componentWillUpdate
+4. render
+5. componentDidUpdate
